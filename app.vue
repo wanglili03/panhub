@@ -12,7 +12,7 @@
       <nav class="nav">
         <NuxtLink to="/" class="brand">
           <span class="brand-icon">🔍</span>
-          <span class="brand-text">PanHub</span>
+          <span class="brand-text">金金咩的PanHub</span>
         </NuxtLink>
         <div class="nav-actions">
           <!-- GitHub 链接 -->
